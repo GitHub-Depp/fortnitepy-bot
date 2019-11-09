@@ -9,5 +9,5 @@ py -3 -m pip install -U BenBotAsync
 
 
 ECHO Done! Now run START BOT.bat
-PAUSE
+PASUE
 
